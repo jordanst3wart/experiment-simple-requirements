@@ -39,5 +39,7 @@ Languages I want to look at:
 - Dart
 - bun
 - deno
+- perl
+- Ocaml
 
 
